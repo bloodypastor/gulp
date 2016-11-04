@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "first time gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "bloodypastor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bloodypastor"
+  },
+  "author": "Datsko",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
